@@ -1,0 +1,533 @@
+0,Adriano's Ristorante,Los Angeles,2930 Beverly Glen Circle
+1,Arnie Morton's of Chicago,Los Angeles,435 S. La Cienega Blvd.
+2,Art's Delicatessen,Studio City,12224 Ventura Blvd.
+3,Barney Greengrass,Beverly Hills,9570 Wilshire Blvd.
+4,Beaurivage,Malibu,26025 Pacific Coast Hwy.
+5,Bistro Garden,Los Angeles,176 N. Canon Dr.
+6,Border Grill,Los Angeles,4th St.
+7,Broadway Deli,Promenade Santa Monica,3rd St.
+8,Ca'Brea,Los Angeles,346 S. La Brea Ave.
+9,Ca'del Sol,Los Angeles,4100 Cahuenga Blvd.
+10,Cafe Bizou,Sherman Oaks,14016 Ventura Blvd.
+11,Cafe Pinot,Los Angeles,700 W. Fifth St.
+12,California Pizza Kitchen,Los Angeles,207 S. Beverly Dr.
+13,Campanile,Los Angeles,624 S. La Brea Ave.
+14,Canter's,Los Angeles,419 N. Fairfax Ave.
+15,Cava,Los Angeles,3rd St.
+16,Cha Cha Cha,Los Angeles,656 N. Virgil Ave.
+17,Chan Dara,Los Angeles,310 N. Larchmont Blvd.
+18,Chinois on Main,Santa Monica,2709 Main St.
+19,Citrus,Los Angeles,6703 Melrose Ave.
+20,Clearwater Cafe,Los Angeles,168 W. Colorado Blvd.
+21,Dining Room,Los Angeles,9500 Wilshire Blvd.
+22,Dive!,Los Angeles,10250 Santa Monica Blvd.
+23,Drago,Santa Monica,2628 Wilshire Blvd.
+24,Drai's,Los Angeles,730 N. La Cienega Blvd.
+25,Dynasty Room,Los Angeles,930 Hilgard Ave.
+26,Eclipse,Los Angeles,8800 Melrose Ave.
+27,Ed Debevic's,Los Angeles,134 N. La Cienega
+28,El Cholo,Los Angeles,1121 S. Western Ave.
+29,Fenix,West Hollywood,8358 Sunset Blvd.
+30,Gilliland's,Santa Monica,2424 Main St.
+31,Gladstone's 4 Fish,Pacific Palisades,17300 Pacific Coast Hwy. at Sunset Blvd.
+32,Granita,Malibu,23725 W. Malibu Rd.
+33,Grill on the Alley,Los Angeles,9560 Dayton Way
+34,Hard Rock Cafe,Los Angeles,8600 Beverly Blvd.
+35,Harry's Bar & American Grill,of the Stars Los Angeles,2020 Ave.
+36,Hotel Bel-Air,Bel Air,701 Stone Canyon Rd.
+37,Il Fornaio Cucina Italiana,Los Angeles,301 N. Beverly Dr.
+38,Jack Sprat's Grill,Los Angeles,10668 W. Pico Blvd.
+39,Jackson's Farm,Los Angeles,439 N. Beverly Drive
+40,Jimmy's,Los Angeles,201 Moreno Dr.
+41,Joss,Los Angeles,9255 Sunset Blvd.
+42,L'Orangerie,Los Angeles,903 N. La Cienega Blvd.
+43,Le Chardonnay,Los Angeles,8284 Melrose Ave.
+44,Le Colonial,Los Angeles,8783 Beverly Blvd.
+45,Le Dome,Los Angeles,8720 Sunset Blvd.
+46,Locanda Veneta,Los Angeles,3rd St.
+47,Louise's Trattoria,Los Angeles,4500 Los Feliz Blvd.
+48,Matsuhisa,Beverly Hills,129 N. La Cienega Blvd.
+49,Mon Kee Seafood Restaurant,Los Angeles,679 N. Spring St.
+50,Morton's,Los Angeles,8764 Melrose Ave.
+51,Nate 'n' Al's,Los Angeles,414 N. Beverly Dr.
+52,Nicola,Los Angeles,601 S. Figueroa St.
+53,Ocean Avenue,Santa Monica,1401 Ocean Ave.
+54,Orleans,Los Angeles,11705 National Blvd.
+55,Pacific Dining Car,Los Angeles,6th St.
+56,Patina,Los Angeles,5955 Melrose Ave.
+57,Paty's,Toluca Lake,10001 Riverside Dr.
+58,Philippe's The Original,Los Angeles,1001 N. Alameda St.
+59,Pinot Bistro,Los Angeles,12969 Ventura Blvd.
+60,Pinot Hollywood,Los Angeles,1448 N. Gower St.
+61,Posto,Sherman Oaks,14928 Ventura Blvd.
+62,Prego,Los Angeles,362 N. Camden Dr.
+63,RJ'S the Rib Joint,Los Angeles,252 N. Beverly Dr.
+64,Remi,Promenade Santa Monica,3rd St.
+65,Restaurant Horikawa,Los Angeles,111 S. San Pedro St.
+66,Restaurant Katsu,Los Angeles,1972 N. Hillhurst Ave.
+67,Rex Il Ristorante,Los Angeles,617 S. Olive St.
+68,Roscoe's House of Chicken 'n' Waffles,Los Angeles,1514 N. Gower St.
+69,Schatzi on Main,Los Angeles,3110 Main St.
+70,Sofi,Los Angeles,3rd St.
+71,Spago,Los Angeles,1114 Horn Ave.
+72,Swingers,Los Angeles,8020 Beverly Blvd.
+73,Tavola Calda,Los Angeles,7371 Melrose Ave.
+74,The Mandarin,Los Angeles,430 N. Camden Dr.
+75,The Palm,Los Angeles,9001 Santa Monica Blvd.
+76,Tommy Tang's,Los Angeles,7313 Melrose Ave.
+77,Tra di Noi,Los Angeles,3835 Cross Creek Rd.
+78,Trader Vic's,Los Angeles,9876 Wilshire Blvd.
+79,Valentino,Santa Monica,3115 Pico Blvd.
+80,Vida,Los Feliz,1930 North Hillhurst Ave.
+81,West Beach Cafe,Los Angeles,60 N. Venice Blvd.
+82,Yujean Kang's Gourmet Chinese Cuisine,Los Angeles,67 N. Raymond Ave.
+83,21 Club,New York,21 W. 52nd St.
+84,20 Mott,New York,20 Mott St.  between Bowery and Pell St.
+85,9 Jones Street,New York,9 Jones St.
+86,Adrienne,New York,700 5th Ave. at 55th St.
+87,Agrotikon,New York,322 E. 14 St. between 1st and 2nd Aves.
+88,Aja,New York,937 Broadway at 22nd St.
+89,Alamo,New York,304 E. 48th St.
+90,Alley's End,New York,311 W. 17th St.
+91,Ambassador Grill,New York,1 United Nations Plaza at 44th St.
+92,American Place,New York,2 Park Ave. at 32nd St.
+93,Anche Vivolo,New York,222 E. 58th St.  between 2nd and 3rd Aves.
+94,Aquavit,New York,13 W. 54th St.
+95,Arizona 206,New York,206 E. 60th St.
+96,Arturo's,New York,106 W. Houston St.  off Thompson St.
+97,Au Mandarin,New York,200-250 Vesey St. World Financial Center
+98,Aureole,New York,34 E. 61st St.
+99,Bar Anise,New York,1022 3rd Ave.  between 60th and 61st Sts.
+100,Barbetta,New York,321 W. 46th St.
+101,Ben Benson's,New York,123 W. 52nd St.
+102,Big Cup,New York,228 8th Ave.  between 21st and 22nd Sts.
+103,Billy's,New York,948 1st Ave.  between 52nd and 53rd Sts.
+104,Boca Chica,New York,13 1st Ave.  near 1st St.
+105,Bolo,New York,23 E. 22nd St.
+106,Boonthai,New York,1393A 2nd Ave.  between 72nd and 73rd Sts.
+107,Bouterin,New York,420 E. 59th St.  off 1st Ave.
+108,Brothers Bar-B-Q,New York,225 Varick St. at Clarkston St.
+109,Bruno,New York,240 E. 58th St.
+110,Bryant Park Grill  Roof Restaurant and BP Cafe,New York,25 W. 40th St.  between 5th and 6th Aves.
+111,C3,New York,103 Waverly Pl.  near Washington Sq.
+112,CT,New York,111 E. 22nd St.  between Park Ave. S and Lexington Ave.
+113,Caf&eacute; Bianco,New York,1486 2nd Ave.  between 77th and 78th Sts.
+114,Caf&eacute; Botanica,New York,160 Central Park
+115,Caf&eacute; La Fortuna,New York,69 W. 71st St.
+116,Caf&eacute; Lalo,New York,201 W. 83rd St.
+117,Caf&eacute; Luxembourg,New York,200 W. 70th St.
+118,Caf&eacute; Pierre,New York,2 E. 61st St.
+119,Caf&eacute; des Artistes,New York,1 W. 67th St.
+120,Cafe Centro,New York,200 Park Ave.  between 45th St. and Vanderbilt Ave.
+121,Cafe Fes,New York,246 W. 4th St. at Charles St.
+122,Caff&egrave; Dante,New York,81 Macdougal St.  between Houston and Bleeker Sts.
+123,Caff&egrave; Dell'Artista,New York,46 Greenwich Ave.
+124,Caff&egrave; Lure,New York,169 Sullivan St.  between Houston and Bleecker Sts.
+125,Caff&egrave; Reggio,New York,119 MacDougal St.  between 3rd and Bleecker Sts.
+126,Caff&egrave; Roma,at Mulberry New York,385 Broome St.
+127,Caff&egrave; Vivaldi,New York,32 Jones St. at Bleecker St.
+128,Caffe Bondi Ristorante,New York,7 W. 20th St.
+129,Capsouto Fr&egrave;res,New York,451 Washington St.  near Watts St.
+130,Captain's Table,New York,860 2nd Ave. at 46th St.
+131,Carmine's,New York,2450 Broadway  between 90th and 91st Sts.
+132,Carnegie Deli,New York,854 7th Ave.  between 54th and 55th Sts.
+133,Casa La Femme,New York,150 Wooster St.  between Houston and Prince Sts.
+134,Cendrillon Asian Grill & Marimba Bar,New York,45 Mercer St.  between Broome and Grand Sts.
+135,Chanterelle,New York,2 Harrison St.  near Hudson St.
+136,Chez Jacqueline,New York,72 MacDougal St.  between W. Houston and Bleecker Sts.
+137,Chiam,New York,160 E. 48th St.
+138,China Grill,New York,60 W. 53rd St.
+139,Cit&eacute;,New York,120 W. 51st St.
+140,Coco Pazzo,New York,23 E. 74th St.
+141,Columbus Bakery,New York,53rd Sts.
+142,Corrado Caf&eacute;,New York,1013 3rd Ave.  between 60th and 61st Sts.
+143,Cupcake Caf&eacute;,New York,522 9th Ave. at 39th St.
+144,Da Nico,New York,164 Mulberry St.  between Grand and Broome Sts.
+145,Daniel,New York,20 E. 76th St.
+146,Dawat,New York,210 E. 58th St.
+147,Dean & Deluca,New York,121 Prince St.
+148,Diva,New York,341 W. Broadway  near Grand St.
+149,Dix et Sept,New York,181 W. 10th St.
+150,Docks,New York,633 3rd Ave. at 40th St.
+151,Duane Park Caf&eacute;,New York,157 Duane St.  between W. Broadway and Hudson St.
+152,El Teddy's,New York,219 W. Broadway  between Franklin and White Sts.
+153,Emily's,New York,1325 5th Ave. at 111th St.
+154,Empire Korea,New York,6 E. 32nd St.
+155,Ernie's,New York,2150 Broadway  between 75th and 76th Sts.
+156,Evergreen Cafe,New York,1288 1st Ave. at 69th St.
+157,F. Ille Ponte Ristorante,New York,39 Desbrosses St.  near West St.
+158,Felidia,New York,243 E. 58th St.
+159,Felix,New York,340 W. Broadway at Grand St.
+160,Ferrier,New York,29 E. 65th St.
+161,Fifty Seven Fifty Seven,New York,57 E. 57th St.
+162,Film Center Cafe,New York,635 9th Ave.  between 44th and 45th Sts.
+163,Fiorello's Roman Caf&eacute;,New York,1900 Broadway  between 63rd and 64th Sts.
+164,Firehouse,New York,522 Columbus Ave.  between 85th and 86th Sts.
+165,First,New York,87 1st Ave.  between 5th and 6th Sts.
+166,Fishin Eddie,New York,73 W. 71st St.
+167,Fleur de Jour,New York,348 E. 62nd St.
+168,Flowers,New York,21 West 17th St.  between 5th and 6th Aves.
+169,Follonico,New York,6 W. 24th St.
+170,Four Seasons Grill Room,New York,99 E. 52nd St.
+171,Fraunces Tavern,New York,54 Pearl St. at Broad St.
+172,French Roast,New York,458 6th Ave. at 11th St.
+173,French Roast Caf&eacute;,New York,2340 Broadway at 85th St.
+174,Frico Bar,New York,402 W. 43rd St.  off 9th Ave.
+175,Fujiyama Mama,New York,467 Columbus Ave.  between 82nd and 83rd Sts.
+176,Gabriela's,New York,685 Amsterdam Ave. at 93rd St.
+177,Gallagher's,New York,228 W. 52nd St.
+178,Gianni's,New York,15 Fulton St.
+179,Girafe,New York,208 E. 58th St.  between 2nd and 3rd Aves.
+180,Global 33,New York,93 2nd Ave.  between 5th and 6th Sts.
+181,Golden Unicorn,New York,18 E. Broadway at Catherine St.
+182,Gotham Bar & Grill,New York,12 E. 12th St.
+183,Gramercy Tavern,New York,42 E. 20th St.  between Park Ave. S and Broadway
+184,Grand Ticino,New York,228 Thompson St.  between W. 3rd and Bleecker Sts.
+185,Halcyon,in the Rihga Royal Hotel New York,151 W. 54th St.
+186,Hard Rock Cafe,New York,221 W. 57th St.
+187,Hi-Life Restaurant and Lounge,New York,1340 1st Ave. at 72nd St.
+188,Home,New York,20 Cornelia St.  between Bleecker and W. 4th St.
+189,Hudson River Club,New York,4 World Financial Center
+190,I Trulli,New York,122 E. 27th St.  between Lexington and Park Aves.
+191,Il Cortile,New York,125 Mulberry St.  between Canal and Hester Sts.
+192,Il Nido,New York,251 E. 53rd St.
+193,Inca Grill,New York,492 Broome St.  near W. Broadway
+194,Indochine,New York,430 Lafayette St.  between 4th St. and Astor Pl.
+195,Internet Cafe,New York,82 E. 3rd St.  between 1st and 2nd Aves.
+196,Ipanema,New York,13 W. 46th St.
+197,Island Spice,New York,402 W. 44th St.
+198,Jean Lafitte,New York,68 W. 58th St.
+199,Jewel of India,New York,15 W. 44th St.
+200,Jimmy Sung's,New York,219 E. 44th St.  between 2nd and 3rd Aves.
+201,Jo Jo,New York,160 E. 64th St.
+202,Joe Allen,New York,326 W. 46th St.
+203,Judson Grill,New York,152 W. 52nd St.
+204,L'Absinthe,New York,227 E. 67th St.
+205,L'Auberge,New York,1191 1st Ave.  between 64th and 65th Sts.
+206,L'Auberge Du Midi,New York,310 W. 4th St.  between W. 12th and Bank Sts.
+207,L'Udo,New York,432 Lafayette St.  near Astor Pl.
+208,La Caravelle,New York,33 W. 55th St.
+209,La Cote Basque,New York,60 W. 55th St.  between 5th and 6th Ave.
+210,La Reserve,New York,4 W. 49th St.
+211,Lanza Restaurant,New York,168 1st Ave.  between 10th and 11th Sts.
+212,Lattanzi Ristorante,New York,361 W. 46th St.
+213,Layla,New York,211 W. Broadway at Franklin St.
+214,Le Bernardin,New York,155 W. 51st St.
+215,Le Chantilly,New York,106 E. 57th St.
+216,Le Colonial,New York,149 E. 57th St.
+217,Le Gamin,New York,50 MacDougal St.  between Houston and Prince Sts.
+218,Le Jardin,New York,25 Cleveland Pl.  near Spring St.
+219,Le Madri,New York,168 W. 18th St.
+220,Le Marais,New York,150 W. 46th St.
+221,Le P&eacute;rigord,New York,405 E. 52nd St.
+222,Le Select,New York,507 Columbus Ave.  between 84th and 85th Sts.
+223,Les C&eacute;l&eacute;brit&eacute;s,New York,160 Central Park
+224,Les Halles,New York,411 Park Ave. S  between 28th and 29th Sts.
+225,Lespinasse,New York,2 E. 55th St.
+226,Lincoln Tavern,New York,51 W. 64th St.
+227,Lola,New York,30 West 22nd St.  between 5th and 6th Ave.
+228,Lucky Strike,New York,59 Grand St.  between Wooster St. and W. Broadway
+229,Lut&egrave;ce,New York,249 E. 50th St.
+230,Mad Fish,New York,2182 Broadway  between 77th and 78th Sts.
+231,Main Street,New York,446 Columbus Ave.  between 81st and 82nd Sts.
+232,Mangia e Bevi,New York,800 9th Ave. at 53rd St.
+233,Manhattan Caf&eacute;,New York,1161 1st Ave.  between 63rd and 64th Sts.
+234,Manhattan Ocean Club,New York,57 W. 58th St.
+235,Manila Garden,New York,325 E. 14th St.  between 1st and 2nd Aves.
+236,March,New York,405 E. 58th St.
+237,Marichu,New York,342 E. 46th St.  between 1st and 2nd Aves.
+238,Marquet Patisserie,New York,15 E. 12th St.  between 5th Ave. and University Pl.
+239,Match,New York,160 Mercer St.  between Houston and Prince Sts.
+240,Matthew's,New York,1030 3rd Ave. at 61st St.
+241,Mavalli Palace,New York,46 E. 29th St.
+242,Mesa Grill,New York,102 5th Ave.  between 15th and 16th Sts.
+243,Mi Cocina,New York,57 Jane St.  off Hudson St.
+244,Milan Caf&eacute; and Coffee Bar,New York,120 W. 23rd St.
+245,Monkey Bar,New York,60 E. 54th St.
+246,Montien,New York,1134 1st Ave.   between 62nd and 63rd Sts.
+247,Montrachet,New York,239 W. Broadway  between Walker and White Sts.
+248,Morton's,New York,551 5th Ave. at 45th St.
+249,Motown Cafe,New York,104 W. 57th St.  near 6th Ave.
+250,New York Kom Tang Soot Bul House,New York,32 W. 32nd St.
+251,New York Noodletown,New York,28 1/2 Bowery at Bayard St.
+252,Newsbar,New York,2 W. 19th St.
+253,Oceana,New York,55 E. 54th St.
+254,Odeon,New York,145 W. Broadway at Thomas St.
+255,Orso,New York,322 W. 46th St.
+256,Osteria al Droge,New York,142 W. 44th St.
+257,Otabe,New York,68 E. 56th St.
+258,Pacifica,New York,138 Lafayette St.  between Canal and Howard Sts.
+259,Palio,New York,151 W. 51st. St.
+260,Pamir,New York,1065 1st Ave.  at 58th St.
+261,Parioli Romanissimo,New York,24 E. 81st St.
+262,Park Avenue Cafe,New York,100 E. 63rd St.
+263,Patria,New York,250 Park Ave. S at 20th St.
+264,Peacock Alley,New York,301 Park Ave.  between 49th and 50th Sts.
+265,Pen & Pencil,New York,205 E. 45th St.
+266,Penang SoHo,New York,109 Spring St.  between Greene and Mercer Sts.
+267,Persepolis,New York,1423 2nd Ave.  between 74th and 75th Sts.
+268,Petrossian,New York,182 W. 58th St.
+269,Picholine,New York,35 W. 64th St.
+270,Pisces,New York,95 Ave. A at 6th St.
+271,Planet Hollywood,New York,140 W. 57th St.
+272,Pomaire,New York,371 W. 46th St.  off 9th Ave.
+273,Popover Caf&eacute;,New York,551 Amsterdam Ave.  between 86th and 87th Sts.
+274,Post House,New York,28 E. 63rd St.
+275,Rain,New York,100 W. 82nd St.
+276,Rainbow Room,New York,30 Rockefeller Plaza
+277,Red Tulip,New York,439 E. 75th St.
+278,Remi,New York,145 W. 53rd St.
+279,Republic,New York,37A Union Sq. W  between 16th and 17th Sts.
+280,River Caf&eacute;,at the East River Brooklyn,1 Water St.
+281,Roettelle A. G,New York,126 E. 7th St.  between 1st Ave. and Ave.
+282,Rosa Mexicano,New York,1063 1st Ave. at 58th St.
+283,Ruth's Chris,New York,148 W. 51st St.
+284,S.P.Q.R,New York,133 Mulberry St.  between Hester and Grand Sts.
+285,Sal Anthony's,New York,55 Irving Pl.
+286,Sammy's Roumanian Steak House,New York,157 Chrystie St. at Delancey St.
+287,San Domenico,New York,240 Central Park
+288,San Pietro,New York,18 E. 54th St.
+289,Sant Ambroeus,New York,1000 Madison Ave.  between 77th and 78th Sts.
+290,Sarabeth's Kitchen,New York,423 Amsterdam Ave.  between 80th and 81st Sts.
+291,Sea Grill,New York,19 W. 49th St.
+292,Second Avenue Deli,New York,156 2nd Ave. at 10th St.
+293,Serendipity 3,New York,225 E. 60th St.
+294,Seryna,New York,11 E. 53rd St.
+295,Seventh Regiment Mess and Bar,New York,643 Park Ave. at 66th St.
+296,Sfuzzi,New York,58 W. 65th St.
+297,Shaan,New York,57 W. 48th St.
+298,Shun Lee West,New York,43 W. 65th St.
+299,Sign of the Dove,New York,1110 3rd Ave. at 65th St.
+300,Smith & Wollensky,New York,201 E. 49th St.
+301,Sofia Fabulous Pizza,New York,1022 Madison Ave.  near 79th St.
+302,Spring Street Natural Restaurant & Bar,New York,62 Spring St. at Lafayette St.
+303,Stage Deli,New York,834 7th Ave.  between 53rd and 54th Sts.
+304,Stingray,New York,428 Amsterdam Ave.  between 80th and 81st Sts.
+305,Sweet'n'Tart Cafe,New York,76 Mott St. at Canal St.
+306,T Salon,New York,143 Mercer St. at Prince St.
+307,Tang Pavillion,New York,65 W. 55th St.
+308,Tapika,New York,950 8th Ave. at 56th St.
+309,Tavern on the Green In Central Park at,New York,67th St.
+310,Teresa's,New York,103 1st Ave.  between 6th and 7th Sts.
+311,Terrace,New York,400 W. 119th St.  between Amsterdam and Morningside Aves.
+312,The Coffee Pot,New York,350 9th Ave. at 49th St.
+313,The Savannah Club,New York,2420 Broadway at 89th St.
+314,Trattoria Dell'Arte,New York,900 7th Ave.  between 56th and 57th Sts.
+315,Triangolo,New York,345 E. 83rd St.
+316,Tribeca Grill,New York,375 Greenwich St.  near Franklin St.
+317,Trois Jean,New York,154 E. 79th St.  between Lexington and 3rd Aves.
+318,Tse Yang,New York,34 E. 51st St.
+319,Turkish Kitchen,New York,386 3rd Ave.  between 27th and 28th Sts.
+320,Two Two Two,New York,222 W. 79th St.
+321,Uncle Nick's,New York,747 9th Ave.  between 50th and 51st Sts.
+322,Union Square Cafe,New York,21 E. 16th St.
+323,Veniero's Pasticceria,New York,342 E. 11th St.  near 1st Ave.
+324,Verbena,New York,54 Irving Pl. at 17th St.
+325,Victor's Caf&eacute; 52,New York,236 W. 52nd St.
+326,Vince & Eddie's,New York,70 W. 68th St.
+327,Virgil's,New York,152 W. 44th St.
+328,Vong,New York,200 E. 54th St.
+329,Water Club,New York,500 E. 30th St.
+330,West 63rd Street Steakhouse,New York,44 W. 63rd St.
+331,Xunta,New York,174 1st Ave.  between 10th and 11th Sts.
+332,Zen Palate,New York,34 Union Sq. E at 16th St.
+333,Zo&euml;,New York,90 Prince St.  between Broadway and Mercer St.
+334,Abbey,Atlanta,163 Ponce de Leon Ave.
+335,Abruzzi,Atlanta,2355 Peachtree Rd.  Peachtree Battle Shopping Center
+336,Aleck's Barbecue Heaven,Atlanta,783 Martin Luther King Jr. Dr.
+337,Annie's Thai Castle,Atlanta,3195 Roswell Rd.
+338,Anthonys,Atlanta,3109 Piedmont Rd.  just south of Peachtree Rd.
+339,Atlanta Fish Market,Atlanta,265 Pharr Rd.
+340,Bacchanalia,Atlanta,3125 Piedmont Rd.  near Peachtree Rd.
+341,Beesley's of Buckhead,Atlanta,260 E. Paces Ferry Road
+342,Bertolini's,Atlanta,3500 Peachtree Rd.  Phipps Plaza
+343,Bistango,Atlanta,1100 Peachtree St.
+344,Bone's,Atlanta,3130 Piedmont Road
+345,Brasserie Le Coze,Lenox Square Mall  near Neiman Marcus Atlanta,3393 Peachtree Rd.
+346,Buckhead Diner,Atlanta,3073 Piedmont Road
+347,Caf&eacute;  Ritz-Carlton  Buckhead,Atlanta,3434 Peachtree Rd.
+348,Cafe Renaissance,Norcross Atlanta,7050 Jimmy Carter Blvd.
+349,Camille's,Atlanta,1186 N. Highland Ave.
+350,Cassis,Grand Hyatt Atlanta,3300 Peachtree Rd.
+351,Ciboulette,Atlanta,1529 Piedmont Ave.
+352,City Grill,Atlanta,50 Hurt Plaza
+353,Coco Loco,Atlanta,40  Buckhead Crossing Mall on the Sidney Marcus Blvd.
+354,Colonnade Restaurant,Atlanta,1879 Cheshire Bridge Rd.
+355,Dante's Down the Hatch  Buckhead,Atlanta,3380 Peachtree Rd.
+356,Dante's Down the Hatch  Underground,Atlanta,Underground Mall  Underground Atlanta
+357,Delectables,Atlanta,1 Margaret Mitchell Sq.
+358,Dining Room  Ritz-Carlton  Buckhead,Atlanta,3434 Peachtree Rd.
+359,Fat Matt's Rib Shack,Atlanta,1811 Piedmont Ave.  near Cheshire Bridge Rd.
+360,French Quarter Food Shop,Atlanta,923 Peachtree St.  at 8th St.
+361,Georgia Grille,Atlanta,2290 Peachtree Rd.  Peachtree Square Shopping Center
+362,Hedgerose Heights Inn,Atlanta,490 E. Paces Ferry Rd.
+363,Heera of India,Atlanta,595 Piedmont Ave.  Rio Shopping Mall
+364,Holt Bros. Bar-B-Q,Norcross Atlanta,6359 Jimmy Carter Blvd.  at Buford Hwy.
+365,Horseradish Grill,Atlanta,4320 Powers Ferry Rd.
+366,Hsu's Gourmet,Atlanta,192 Peachtree Center Ave.  at International Blvd.
+367,Imperial Fez,Peachtree Battle Condominium Atlanta,2285 Peachtree Rd.
+368,Indigo Coastal Grill,Atlanta,1397 N. Highland Ave.
+369,Kamogawa,Grand Hyatt Atlanta,3300 Peachtree Rd.
+370,La Grotta,Atlanta,2637 Peachtree Rd.  Peachtree House Condominium
+371,La Grotta at Ravinia,at Ravinia  Dunwoody Atlanta,Dunwoody Rd.  Holiday Inn/Crowne Plaza
+372,Little Szechuan,Doraville Atlanta,C Buford Hwy.  Northwoods Plaza
+373,Lowcountry Barbecue,Sandy Springs Atlanta,6301 Roswell Rd.  Sandy Springs Plaza
+374,Luna S&iacute;,Atlanta,1931 Peachtree Rd.
+375,Mambo Restaurante Cubano,Atlanta,1402 N. Highland Ave.
+376,Mary Mac's Tea Room,Atlanta,224 Ponce de Leon Ave.
+377,McKinnon's Louisiane,Atlanta,3209 Maple Dr.
+378,Mi Spia,Place  across from Perimeter Mall  Dunwoody Atlanta,Dunwoody Rd.  Park
+379,Nickiemoto's: A Sushi Bar,Atlanta,247 Buckhead Ave.  East Village Sq.
+380,Nikolai's Roof,Atlanta,255 Courtland St.  at Harris St.
+381,Palisades,Atlanta,1829 Peachtree Rd.
+382,Pano's and Paul's,Atlanta,1232 W. Paces Ferry Rd.
+383,Pleasant Peasant,Atlanta,555 Peachtree St.  at Linden Ave.
+384,Pricci,Atlanta,500 Pharr Rd.
+385,R.J.'s Uptown Kitchen & Wine Bar,Atlanta,870 N. Highland Ave.
+386,Restaurant  Ritz-Carlton  Atlanta,Atlanta,181 Peachtree St.
+387,Rib Ranch,Atlanta,25 Irby Ave.
+388,Sa Tsu Ki,Atlanta,3043 Buford Hwy.
+389,Sato Sushi and Thai,Norcross Atlanta,6050 Peachtree Pkwy.
+390,South City Kitchen,Atlanta,1144 Crescent Ave.
+391,South of France,Atlanta,2345 Cheshire Bridge Rd.
+392,Stringer's Fish Camp and Oyster Bar,Chamblee Atlanta,3384 Shallowford Rd.
+393,Sundown Cafe,Atlanta,2165 Cheshire Bridge Rd.
+394,Taste of New Orleans,Atlanta,889 W. Peachtree St.
+395,TomTom,Atlanta,3393 Peachtree Rd.
+396,Toulouse,Atlanta,B Peachtree Rd.
+397,Veni Vidi Vici,Atlanta,41 14th St.
+398,Antonio's,Las Vegas,3700 W. Flamingo
+399,Bally's Big Kitchen,Las Vegas,3645 Las Vegas Blvd.
+400,Bamboo Garden,Las Vegas,4850 Flamingo Rd.
+401,Battista's Hole in the Wall,Las Vegas,4041 Audrie St. at Flamingo Rd.
+402,Bertolini's,Las Vegas,3570 Las Vegas Blvd.
+403,Binion's Coffee Shop,Las Vegas,128 Fremont St.
+404,Bistro,Las Vegas,3400 Las Vegas Blvd.
+405,Broiler,Las Vegas,4111 Boulder Hwy.
+406,Bugsy's Diner,Las Vegas,3555 Las Vegas Blvd.
+407,Caf&eacute; Michelle,Las Vegas,1350 E. Flamingo Rd.
+408,Cafe Roma,Las Vegas,3570 Las Vegas Blvd.
+409,Capozzoli's,Las Vegas,3333 S. Maryland Pkwy.
+410,Carnival World,Las Vegas,3700 W. Flamingo Rd.
+411,Center Stage Plaza Hotel,Las Vegas,1 Main St.
+412,Chin's,Las Vegas,3200 Las Vegas Blvd.
+413,Circus Circus,Las Vegas,2880 Las Vegas Blvd.
+414,Coyote Caf&eacute;,Las Vegas,3799 Las Vegas Blvd.
+415,Empress Court,Las Vegas,3570 Las Vegas Blvd.
+416,Feast,Las Vegas,2411 W. Sahara Ave.
+417,Golden Nugget Hotel,Las Vegas,129 E. Fremont St.
+418,Golden Steer,Las Vegas,308 W. Sahara Ave.
+419,Le Montrachet,Las Vegas,3000 W. Paradise Rd.
+420,Lillie Langtry's,Las Vegas,129 E. Fremont St.
+421,Mandarin Court,Las Vegas,1510 E. Flamingo Rd.
+422,Margarita's Mexican Cantina,Las Vegas,3120 Las Vegas Blvd.
+423,Mary's Diner,Las Vegas,5111 W. Boulder Hwy.
+424,Mikado,Las Vegas,3400 Las Vegas Blvd.
+425,Palace Court,Las Vegas,3570 Las Vegas Blvd.
+426,Pamplemousse,Las Vegas,400 E. Sahara Ave.
+427,Ralph's Diner,Las Vegas,3000 Las Vegas Blvd.
+428,Second Street Grille,Las Vegas,200 E. Fremont St.
+429,Steak House,Las Vegas,2880 Las Vegas Blvd.
+430,The Bacchanal,Las Vegas,3570 Las Vegas Blvd.
+431,Tillerman,Las Vegas,2245 E. Flamingo Rd.
+432,Venetian,Las Vegas,3713 W. Sahara Ave.
+433,Viva Mercado's,Las Vegas,6182 W. Flamingo Rd.
+434,Yolie's,Las Vegas,3900 Paradise Rd.
+435,2223,San Francisco,2223 Market St.
+436,Acquarello,San Francisco,1722 Sacramento St.
+437,Alain Rondelli,San Francisco,126 Clement St.
+438,Aqua,San Francisco,252 California St.
+439,Bardelli's,San Francisco,243 O'Farrell St.
+440,Betelnut,San Francisco,2030 Union St.
+441,Bistro Roti,San Francisco,155 Steuart St.
+442,Bix,San Francisco,56 Gold St.
+443,Bizou,San Francisco,598 Fourth St.
+444,Boulevard,San Francisco,1 Mission St.
+445,Buca Giovanni,San Francisco,800 Greenwich St.
+446,Caf&eacute; Adriano,San Francisco,3347 Fillmore St.
+447,Caf&eacute; Claude,San Francisco,7 Claude La.
+448,Caf&eacute; Marimba,San Francisco,2317 Chestnut St.
+449,California Culinary Academy,San Francisco,625 Polk St.
+450,Campton Place,San Francisco,340 Stockton St.
+451,Capp's Corner,San Francisco,1600 Powell St.
+452,Carta,San Francisco,1772 Market St.
+453,Chevys,San Francisco,4th and Howard Sts.
+454,Chez Michel,San Francisco,804 Northpoint
+455,Cypress Club,San Francisco,500 Jackson St.
+456,Des Alpes,San Francisco,732 Broadway
+457,Faz,San Francisco,161 Sutter St.
+458,Fleur de Lys,San Francisco,777 Sutter St.
+459,Fog City Diner,San Francisco,1300 Battery St.
+460,Fringale,San Francisco,570 4th St.
+461,Garden Court,San Francisco,Market and New Montgomery Sts.
+462,Gaylord's,San Francisco,Ghirardelli Sq.
+463,Grand Caf&eacute; Hotel Monaco,San Francisco,501 Geary St.
+464,Greens,San Francisco,Bldg. A Fort Mason
+465,Harbor Village,San Francisco,4 Embarcadero Center
+466,Harris',San Francisco,2100 Van Ness Ave.
+467,Harry Denton's,San Francisco,161 Steuart St.
+468,Hawthorne Lane,San Francisco,22 Hawthorne St.
+469,Hayes Street Grill,San Francisco,320 Hayes St.
+470,Helmand,San Francisco,430 Broadway
+471,Hong Kong Flower Lounge,San Francisco,5322 Geary Blvd.
+472,Hong Kong Villa,San Francisco,2332 Clement St.
+473,Hyde Street Bistro,San Francisco,1521 Hyde St.
+474,Il Fornaio Levi's Plaza,San Francisco,1265 Battery St.
+475,Izzy's Steak & Chop House,San Francisco,3345 Steiner St.
+476,Jack's,San Francisco,615 Sacramento St.
+477,Kabuto Sushi,San Francisco,5116 Geary Blvd.
+478,Katia's,San Francisco,600 5th Ave.
+479,Khan Toke Thai House,San Francisco,5937 Geary Blvd.
+480,Kuleto's,San Francisco,221 Powell St.
+481,Kyo-ya. Sheraton Palace Hotel,San Francisco,2 New Montgomery St.  at Market St.
+482,L'Osteria del Forno,San Francisco,519 Columbus Ave.
+483,La Folie,San Francisco,2316 Polk St.
+484,Le Central,San Francisco,453 Bush St.
+485,Le Soleil,San Francisco,133 Clement St.
+486,LuLu,San Francisco,816 Folsom St.
+487,MacArthur Park,San Francisco,607 Front St.
+488,Manora,San Francisco,3226 Mission St.
+489,Masa's,San Francisco,648 Bush St.
+490,Maykadeh,San Francisco,470 Green St.
+491,McCormick & Kuleto's,San Francisco,Ghirardelli Sq.
+492,Mifune Japan Center  Kintetsu Building,San Francisco,1737 Post St.
+493,Millennium,San Francisco,246 McAllister St.
+494,Moose's,San Francisco,1652 Stockton St.
+495,North India,San Francisco,3131 Webster St.
+496,One Market,San Francisco,1 Market St.
+497,Oritalia,San Francisco,1915 Fillmore St.
+498,Pacific Pan Pacific Hotel,San Francisco,500 Post St.
+499,Palio d'Asti,San Francisco,640 Sacramento St.
+500,Pane e Vino,San Francisco,3011 Steiner St.
+501,Pastis,San Francisco,1015 Battery St.
+502,Perry's,San Francisco,1944 Union St.
+503,PlumpJack Caf&eacute;,San Francisco,3201 Fillmore St.
+504,Postrio,San Francisco,545 Post St.
+505,R&G Lounge,San Francisco,631 B Kearny St.
+506,Ritz-Carlton Restaurant and Dining Room,San Francisco,600 Stockton St.
+507,Rose Pistola,San Francisco,532 Columbus Ave.
+508,Rubicon,San Francisco,558 Sacramento St.
+509,Rumpus,San Francisco,1 Tillman Pl.
+510,Sanppo,San Francisco,1702 Post St.
+511,Scala's Bistro,San Francisco,432 Powell St.
+512,South Park Cafe,San Francisco,108 South Park
+513,Splendido,San Francisco,Embarcadero 4
+514,Stars,San Francisco,150 Redwood Alley
+515,Stars Cafe,San Francisco,500 Van Ness Ave.
+516,Stoyanof's Cafe,San Francisco,1240 9th Ave.
+517,Straits Cafe,San Francisco,3300 Geary Blvd.
+518,Suppenkuche,San Francisco,601 Hayes St.
+519,Tadich Grill,San Francisco,240 California St.
+520,The Heights,San Francisco,3235 Sacramento St.
+521,Thepin,San Francisco,298 Gough St.
+522,Ton Kiang,San Francisco,3148 Geary Blvd.
+523,Vertigo,San Francisco,600 Montgomery St.
+524,Vivande Porta Via,San Francisco,2125 Fillmore St.
+525,Vivande Ristorante,San Francisco,670 Golden Gate Ave.
+526,World Wrapps,San Francisco,2257 Chestnut St.
+527,Wu Kong,San Francisco,101 Spear St.
+528,Yank Sing,San Francisco,427 Battery St.
+529,Yaya Cuisine,San Francisco,1220 9th Ave.
+530,Yoyo Tsumami Bistro,San Francisco,1611 Post St.
+531,Zarzuela,San Francisco,2000 Hyde St.
+532,Zuni Caf&eacute; & Grill,San Francisco,1658 Market St.
